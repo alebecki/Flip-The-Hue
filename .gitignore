@@ -107,3 +107,12 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# --- Added: OS / editor / other tooling ---
+.DS_Store
+.vscode/
+.plastic/
+ignore.conf
+cloaked.conf
+/[Oo]bj/
+/Builds.zip
